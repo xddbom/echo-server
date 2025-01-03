@@ -1,4 +1,4 @@
-# HTTP/1.1 Echo Server
+# HTTP/1.1 (WebSocket) Echo Server
 ---
 A simple echo server for educational purposes.
 
